@@ -41,7 +41,7 @@ Astrion ist eine leistungsstarke Sammlung von Tools für Blockchain, Netzwerke, 
 
 ### **2. Projekt klonen**
 ```bash
-git clone https://github.com/<dein-benutzername>/astrion.git
+git clone https://github.com/Trayx1/astrion.git
 cd astrion
 ```
 
