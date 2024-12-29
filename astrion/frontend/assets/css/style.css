@@ -1,0 +1,29 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: #f8f9fa;
+    color: #212529;
+}
+
+h1, h2 {
+    font-weight: 700;
+    color: #007bff;
+}
+
+#sidebar {
+    background-color: #343a40;
+}
+
+#sidebar .nav-link:hover {
+    background-color: #495057;
+    border-radius: 4px;
+}
+
+.card {
+    border: none;
+    transition: transform 0.2s, box-shadow 0.2s;
+}
+
+.card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
